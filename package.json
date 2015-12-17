@@ -24,7 +24,7 @@
     "babel-runtime": "^5.8.29",
     "classnames": "^2.2.0",
     "clear": "0.0.1",
-    "history": "^1.13.1",
+    "history": "1.13.1",
     "moment": "^2.10.6",
     "parse-link-header": "^0.4.1",
     "react": "^0.14.1",
